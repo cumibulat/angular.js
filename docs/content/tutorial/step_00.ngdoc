@@ -17,7 +17,7 @@ section.
 In the `angular-phonecat` directory, run this command:
 
 ```
-git checkout -f step-0
+git checkout -f step-0 -> error when running this command
 ```
 
 This resets your workspace to step 0 of the tutorial app.
